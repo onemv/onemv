@@ -77,8 +77,24 @@ Frontend-разработчик с более чем 2 годами коммер
 <hr />
 <div>
    <img src="/icons/Sounded.png" title="Sounded" alt="soundedLogo" width="16"/> <b>Sounded: Telegram mini-app и PWA для быстрого поиска, прослушивания и отправки музыки</b></b><br /><br />
+  <kbd>
+    <img src="/content/soundedSlider.gif" title="Sounded_Bot" alt="sounded"/>&nbsp;
     <kbd>
-      <img src="/content/soundedSlider.gif" title="Sounded_Bot" alt="clancar"/>&nbsp;
-       <p>Музыкальный сервис в формате Telegram mini-app и standalone PWA. Пользователь может находить треки по поиску и разделам, слушать их в встроенном плеере, сохранять в избранное и отправлять в Telegram в пару кликов. Проект построен как production-ready monorepo: React/Vite фронтенд, Fastify API, Telegram-бот, очередь задач и кэширование, что обеспечивает стабильную работу даже при сбоях внешнего источника.</p>
+    <p>Музыкальный сервис в формате Telegram mini-app и standalone PWA. Пользователь может находить треки по поиску и разделам, слушать их в встроенном плеере, сохранять в избранное и отправлять в Telegram в пару кликов. Проект построен как production-ready monorepo: React/Vite фронтенд, Fastify API, Telegram-бот, очередь задач и кэширование, что обеспечивает стабильную работу даже при сбоях внешнего источника.</p>
     </kbd>
+    <div align="center">
+    <kbd>
+      <img src="/icons/pnpm.png" title="PNPM" alt="pnpm" width="35"/>&nbsp;
+      <img src="/icons/Docker.png" title="Docker" alt="docker" width="35"/>&nbsp;
+      <img src="/icons/vite.png" title="Vite" alt="vite" width="35"/>&nbsp;
+      <img src="/icons/React.png" title="React" alt="react" width="35"/>&nbsp;
+      <img src="/icons/JS.png" title="JS" alt="js" width="35"/>&nbsp;
+      <img src="/icons/TS.png" title="TS" alt="ts" width="35"/>&nbsp;
+      <img src="/icons/CSS.png" title="CSS" alt="css" width="35"/>&nbsp;
+      <img src="/icons/PostgreSQL.png" title="PostgreSQL" alt="postgresql" width="35"/>&nbsp;
+      <img src="/icons/Prisma.png" title="Prisma" alt="prisma" width="35"/>&nbsp;
+      <img src="/icons/Fastify.png" title="Fastify" alt="fastify" width="35"/>&nbsp;
+    </kbd>
+    </div>
+  </kbd>
 </div>
