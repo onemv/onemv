@@ -10,6 +10,7 @@ Frontend-разработчик с более чем 2 годами коммер
   <h4>Frontend:</h4>
   <img class="icon" src="/icons/HTML.png" title="HTML" alt="html" width="44"/>&nbsp;
   <img src="/icons/CSS.png" title="CSS" alt="css" width="44"/>&nbsp;
+  <img src="/icons/scss.png" title="SCSS" alt="scss" width="44"/>&nbsp;
   <img src="/icons/JS.png" title="JS" alt="js" width="44"/>&nbsp;
   <img src="/icons/TS.png" title="TS" alt="ts" width="44"/>&nbsp;
   <img src="/icons/React.png" title="React" alt="react" width="44"/>&nbsp;
@@ -55,6 +56,7 @@ Frontend-разработчик с более чем 2 годами коммер
 <p>Cистема учета склада автомобилей с пробегом и встроенная платформа для выкупа авто. Сервис позволяет вести карточки автомобилей, загружать и обрабатывать фото во встроенном редакторе (в том числе скрывать госномера), управлять сделками и контролировать складские процессы. Внутри реализован модуль выкупа по механике закрытых ценовых предложений: участники отправляют ставки, не видя предложения конкурентов.
 
 Проект реализован как монорепозиторий на pnpm + Turborepo: frontend построен на Next.js 15, React 19 и SCSS Modules, backend — на NestJS + Prisma. В качестве инфраструктуры используются PostgreSQL, Redis и S3-compatible storage (MinIO). Взаимодействие между клиентом и сервером организовано через OpenAPI и общий автогенерируемый api-client, а локальная разработка запускается через Docker Compose (БД, кэш, object storage, Prisma Studio).</p>
+
   </kbd>
 </div>
 <div>
