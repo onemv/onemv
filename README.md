@@ -1,7 +1,7 @@
 ## Максим ✦ Frontend-разработчик
 Frontend (более 1 года коммерции) | Backend (Pet-projects) | Agile Team Player
 
-  <a href="https://t.me/onemv">
+  <a href="https://t.me/one-mv">
     <img class="icon" src="/icons/TelegramButton.png" title="Открыть Telegram" alt="html" width="100"/>
   </a>
   <a href="mailto:mvdeon@yandex.ru">
