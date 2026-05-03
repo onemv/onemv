@@ -13,6 +13,7 @@ Frontend-разработчик с более чем 2 годами коммер
   <img src="/icons/scss.png" title="SCSS" alt="scss" width="44"/>&nbsp;
   <img src="/icons/JS.png" title="JS" alt="js" width="44"/>&nbsp;
   <img src="/icons/TS.png" title="TS" alt="ts" width="44"/>&nbsp;
+  <img src="/icons/NextJS.png" title="NextJS" alt="nextjs" width="44"/>&nbsp;
   <img src="/icons/React.png" title="React" alt="react" width="44"/>&nbsp;
   <img src="/icons/Tailwind.png" title="Tailwind" alt="tailwind" width="44"/>&nbsp;
   <img src="/icons/Bootstrap.png" title="Bootstrap" alt="bootstrap" width="44"/>&nbsp;
@@ -53,12 +54,27 @@ Frontend-разработчик с более чем 2 годами коммер
   <img src="/icons/clancar.png" title="ClanCar" alt="clancarLogo" width="16"/> <b>Кланкар — система учета склада авто с пробегом и выкупа автомобилей.</b><br /><br />
   <kbd>
   <img src="/content/clancarSlider.gif" title="ClanCar" alt="clancar"/>&nbsp;
-<p>Cистема учета склада автомобилей с пробегом и встроенная платформа для выкупа авто. Сервис позволяет вести карточки автомобилей, загружать и обрабатывать фото во встроенном редакторе (в том числе скрывать госномера), управлять сделками и контролировать складские процессы. Внутри реализован модуль выкупа по механике закрытых ценовых предложений: участники отправляют ставки, не видя предложения конкурентов.
+<kbd><p>Cистема учета склада автомобилей с пробегом и встроенная платформа для выкупа авто. Сервис позволяет вести карточки автомобилей, загружать и обрабатывать фото во встроенном редакторе (в том числе скрывать госномера), управлять сделками и контролировать складские процессы. Внутри реализован модуль выкупа по механике закрытых ценовых предложений: участники отправляют ставки, не видя предложения конкурентов.
 
-Проект реализован как монорепозиторий на pnpm + Turborepo: frontend построен на Next.js 15, React 19 и SCSS Modules, backend — на NestJS + Prisma. В качестве инфраструктуры используются PostgreSQL, Redis и S3-compatible storage (MinIO). Взаимодействие между клиентом и сервером организовано через OpenAPI и общий автогенерируемый api-client, а локальная разработка запускается через Docker Compose (БД, кэш, object storage, Prisma Studio).</p>
-
-  </kbd>
+Проект реализован как монорепозиторий на pnpm + Turborepo: frontend построен на Next.js 15, React 19 и SCSS Modules, backend — на NestJS + Prisma. В качестве инфраструктуры используются PostgreSQL, Redis и S3-compatible storage (MinIO). Взаимодействие между клиентом и сервером организовано через OpenAPI и общий автогенерируемый api-client, а локальная разработка запускается через Docker Compose (БД, кэш, object storage, Prisma Studio).</p></kbd>
+  <div align="center">
+    <kbd>
+    <img src="/icons/pnpm.png" title="PNPM" alt="pnpm" width="35"/>&nbsp;
+    <img src="/icons/Docker.png" title="Docker" alt="docker" width="35"/>&nbsp;
+    <img src="/icons/NextJS.png" title="NextJS" alt="nextjs" width="35"/>&nbsp;
+    <img src="/icons/React.png" title="React" alt="react" width="35"/>&nbsp;
+    <img src="/icons/JS.png" title="JS" alt="js" width="35"/>&nbsp;
+    <img src="/icons/TS.png" title="TS" alt="ts" width="35"/>&nbsp;
+    <img src="/icons/scss.png" title="SCSS" alt="scss" width="35"/>&nbsp;
+    <img src="/icons/PostgreSQL.png" title="PostgreSQL" alt="postgresql" width="35"/>&nbsp;
+    <img src="/icons/Prisma.png" title="Prisma" alt="prisma" width="35"/>&nbsp;
+    <img src="/icons/NodeJS.png" title="NodeJS" alt="nodejs" width="35"/>&nbsp;
+    <img src="/icons/OpenAPI.png" title="OpenAPI" alt="openapi" width="35"/>&nbsp;
+    </kbd>
+  </div>
+</kbd>
 </div>
+<hr />
 <div>
    <img src="/icons/Sounded.png" title="Sounded" alt="soundedLogo" width="16"/> <b>Sounded: Telegram mini-app и PWA для быстрого поиска, прослушивания и отправки музыки</b></b><br /><br />
     <kbd>
