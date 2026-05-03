@@ -7,7 +7,7 @@ Frontend (более 1 года коммерции) | Backend (Pet-projects) | A
   <a href="mailto:mvdeon@yandex.ru">
     <img class="icon" src="/icons/EMailButton.png" title="Отправить письмо на E-Mail" alt="html" width="30"/>
   </a><br />
-
+---
 <div>
   <h4>Frontend:</h4>
   <img class="icon" src="/icons/HTML.png" title="HTML" alt="html" width="44"/>&nbsp;
