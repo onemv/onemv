@@ -48,7 +48,12 @@ Frontend-разработчик с более чем 2 годами коммер
 ---
 
 ## Проекты:
-
-<img src="/content/clancarSlider.gif" title="Clancar" alt="clancar"/>&nbsp;
-
-<img src="/content/soudedSlider.gif" title="Clancar" alt="clancar"/>&nbsp;
+<div>
+  <h4>Кланкар - Система учета склада авто с пробегом + платформа для выкупа.</h4>
+  <p>Сервис для учета склада автомобилей с пробегом, позволяющий создавать карточки с автомобилями, монтировать фотографии для скрытия номеров, управлять сделками. Внутри сервиса построена платформа для выкупа автомобилей по принципу скрытого аукциона, где участники предлагают свои цены, не зная о предложениях конкурентов.</p>
+  <img src="/content/clancarSlider.gif" title="ClanCar" alt="clancar"/>&nbsp;
+</div>
+<div>
+  <h4>Sounded - Сервис для прослушивания музыки со сторонних сервисов с отправкой треков в Telegram.</h4>
+  <img src="/content/soundedSlider.gif" title="Sounded_Bot" alt="clancar"/>&nbsp;
+</div>
