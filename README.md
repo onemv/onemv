@@ -46,3 +46,5 @@ Frontend (более 1 года коммерции) | Backend (Pet-projects) | A
   <img src="/icons/Figma.png" title="Figma" alt="figma" width="44"/>&nbsp;
   <img src="/icons/cPanel.png" title="cPanel" alt="cpanel" width="44"/>&nbsp;
 </div>
+
+---
