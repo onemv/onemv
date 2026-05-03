@@ -28,6 +28,7 @@ Frontend-разработчик с более чем 2 годами коммер
 <div>
   <h4>Backend:</h4>
   <img src="/icons/NodeJS.png" title="NodeJS" alt="nodejs" width="44"/>&nbsp;
+  <img src="/icons/Fastify.png" title="Fastify" alt="fastify" width="44"/>&nbsp;
   <img src="/icons/PostgreSQL.png" title="PostgreSQL" alt="postgresql" width="44"/>&nbsp;
   <img src="/icons/Prisma.png" title="Prisma" alt="prisma" width="44"/>&nbsp;
   <img src="/icons/OpenAPI.png" title="OpenAPI" alt="openapi" width="44"/>&nbsp;
