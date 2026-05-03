@@ -49,3 +49,6 @@ Frontend-разработчик с более чем 2 годами коммер
 
 ## Проекты:
 
+<img src="/content/clancarSlider.gif" title="Clancar" alt="clancar"/>&nbsp;
+
+<img src="/content/soudedSlider.gif" title="Clancar" alt="clancar"/>&nbsp;
