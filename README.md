@@ -2,13 +2,11 @@
 Frontend (более 1 года коммерции) | Backend (Pet-projects) | Agile Team Player
 
   <a href="https://t.me/one_mv">
-    <img class="icon" src="/icons/TelegramButton.png" title="Открыть Telegram" alt="html" width="20"/>
+    <img class="icon" src="/icons/TelegramButton.png" title="Открыть Telegram" alt="html" width="30"/>
   </a>
   <a href="mailto:mvdeon@yandex.ru">
-    <img class="icon" src="/icons/EMailButton.png" title="Отправить письмо на E-Mail" alt="html" width="20"/>
+    <img class="icon" src="/icons/EMailButton.png" title="Отправить письмо на E-Mail" alt="html" width="30"/>
   </a><br />
-
-[![Telegram](/icons/TelegramButton.png)]([link-url](https://t.me/one_mv))
 
 <div>
   <h4>Frontend:</h4>
