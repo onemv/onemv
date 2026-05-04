@@ -1,6 +1,6 @@
 ## ` Максим ✦ Frontend-разработчик ` <a href="https://t.me/one_mv"><img class="icon" src="/icons/TelegramButton.png" title="Открыть Telegram" alt="html" width="18"/></a> <a href="mailto:mvdeon@yandex.ru"><img class="icon" src="/icons/EMailButton.png" title="Отправить письмо на E-Mail" alt="html" width="18"/></a> <a href="https://hh.ru/resume/ab60ef3cff107406740039ed1f714b49554944"><img class="icon" src="/icons/hhButton.png" title="Перейти на страницу hh.ru" alt="html" width="18"/></a> 
   
-Frontend-разработчик с более 1 годом коммерческого опыта и более 2 лет практики и создание персональных и аутсорс (фриланс) проектов. Создаю современные, адаптивные и удобные интерфейсы. В основнои работаю с React и TypeScript.
+Frontend-разработчик с более 1 годом коммерческого опыта и более 2 лет практики и создание персональных и аутсорс (фриланс) проектов. Создаю современные, адаптивные и удобные интерфейсы. 
 
 ` Разработка ` ` Доработка ` ` Bug Fix ` ` Refactoring ` ` Code Review ` ` Deploy `
   
